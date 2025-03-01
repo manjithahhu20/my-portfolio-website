@@ -87,6 +87,18 @@
   background-color: grey;
 }
 
+.behance:hover {
+  color: #053eff;
+}
+
+.facebook:hover {
+  color: #1877F2;
+}
+
+.instagram:hover {
+  color: #C13584;
+}
+
 .github:hover {
   background-color: black;
 }
