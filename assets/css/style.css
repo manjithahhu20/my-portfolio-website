@@ -88,15 +88,15 @@
 }
 
 .behance:hover {
-  color: #053eff;
+  background-color: #053eff;
 }
 
 .facebook:hover {
-  color: #1877F2;
+  background-color: #1877F2;
 }
 
 .instagram:hover {
-  color: #C13584;
+  background-color: #C13584;
 }
 
 .github:hover {
