@@ -1,7 +1,7 @@
-# Group 1
+# Explicitly allow Googlebot
 User-agent: Googlebot
-Disallow: /nogooglebot/
+Allow: /
 
-# Group 2
+# Allow all other search engines
 User-agent: *
 Allow: /
